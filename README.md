@@ -18,6 +18,13 @@ Este repositório contém um projeto simples em ExpressJS acompanhado de testes 
 ## 📋 Pré-requisitos  
 
 - **Node.js e npm:** Baixe em [https://nodejs.org/](https://nodejs.org/).
+- **Git:** Baixe em [https://git-scm.com/](https://git-scm.com/).
+- **Docker Desktop:** Necessário para o banco de dados PostgreSQL. Baixe em [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop).
+- **Ferramentas de Teste de API:** <br>
+Postman [https://www.postman.com/downloads/](https://www.postman.com/downloads/)<br>
+Insomnia [https://insomnia.rest/download/](https://insomnia.rest/download/)<br>
+Ou Thunder Client (extensão no Visual Studio Code).
+
 
 <br>
 
