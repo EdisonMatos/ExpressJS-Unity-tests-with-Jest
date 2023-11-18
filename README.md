@@ -26,7 +26,7 @@ Este repositório contém um projeto simples em ExpressJS acompanhado de testes 
 1. **Clonar o Repositório:**
 
     ```bash
-    git clone https://github.com/EdisonMatos/ExpressJS-Unity-tests-with-Jest.git
+    git clone https://github.com/EdisonMatos/Jest-Unity-tests-on-a-CRUD-with-ExpressJS.git
     ```
 
 2. **Instalar Dependências:**
